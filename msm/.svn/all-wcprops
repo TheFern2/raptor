@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/test/!svn/ver/19/trunk/raptor/msm
+END
+InkDiv.msm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/test/!svn/ver/19/trunk/raptor/msm/InkDiv.msm
+END
+tpcman17.msm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/test/!svn/ver/19/trunk/raptor/msm/tpcman17.msm
+END
+MSTPCRT.msm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/test/!svn/ver/19/trunk/raptor/msm/MSTPCRT.msm
+END
+MSVCP60.MSM
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/test/!svn/ver/19/trunk/raptor/msm/MSVCP60.MSM
+END
+MSVCRT.MSM
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/test/!svn/ver/19/trunk/raptor/msm/MSVCRT.MSM
+END

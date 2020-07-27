@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations
+END
+DependencyRelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations/DependencyRelation.cs
+END
+RelationException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations/RelationException.cs
+END
+Relation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations/Relation.cs
+END
+RealizationRelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations/RealizationRelation.cs
+END
+TypeRelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations/TypeRelation.cs
+END
+CommentRelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations/CommentRelation.cs
+END
+Direction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations/Direction.cs
+END
+NestingRelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations/NestingRelation.cs
+END
+GeneralizationRelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations/GeneralizationRelation.cs
+END
+AssociationRelation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/test/!svn/ver/7/trunk/raptor/Core/Relations/AssociationRelation.cs
+END

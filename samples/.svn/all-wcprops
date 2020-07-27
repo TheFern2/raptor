@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/test/!svn/ver/7/trunk/raptor/samples
+END
+count_down.rap
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/test/!svn/ver/7/trunk/raptor/samples/count_down.rap
+END
+Checkers (compiled).rap
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/test/!svn/ver/7/trunk/raptor/samples/Checkers%20(compiled).rap
+END
+RadialMouse.rap
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/test/!svn/ver/7/trunk/raptor/samples/RadialMouse.rap
+END
+DoubleSlit.rap
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/test/!svn/ver/7/trunk/raptor/samples/DoubleSlit.rap
+END
+first.rap
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/test/!svn/ver/7/trunk/raptor/samples/first.rap
+END
+sort.rap
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/test/!svn/ver/7/trunk/raptor/samples/sort.rap
+END
+DoubleSlitReal.rap
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/test/!svn/ver/7/trunk/raptor/samples/DoubleSlitReal.rap
+END
+plugins.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/test/!svn/ver/7/trunk/raptor/samples/plugins.dll
+END
+Super_Pacman (compiled).rap
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/test/!svn/ver/7/trunk/raptor/samples/Super_Pacman%20(compiled).rap
+END
+clock.rap
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/test/!svn/ver/7/trunk/raptor/samples/clock.rap
+END
+drawing.rap
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/test/!svn/ver/7/trunk/raptor/samples/drawing.rap
+END
+fib_numbers.rap
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/test/!svn/ver/7/trunk/raptor/samples/fib_numbers.rap
+END
+SingleSlit.rap
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/test/!svn/ver/7/trunk/raptor/samples/SingleSlit.rap
+END
+tic_tac_toe.rap
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/test/!svn/ver/7/trunk/raptor/samples/tic_tac_toe.rap
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/test/!svn/ver/7/trunk/raptor/Java
+END
+Java.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/test/!svn/ver/7/trunk/raptor/Java/Java.csproj
+END
+JavaArgumentList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/test/!svn/ver/7/trunk/raptor/Java/JavaArgumentList.cs
+END
+JavaInterface.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/test/!svn/ver/7/trunk/raptor/Java/JavaInterface.cs
+END
+JavaMethod.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/test/!svn/ver/7/trunk/raptor/Java/JavaMethod.cs
+END
+JavaParameter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/test/!svn/ver/7/trunk/raptor/Java/JavaParameter.cs
+END
+JavaEnumValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/test/!svn/ver/7/trunk/raptor/Java/JavaEnumValue.cs
+END
+JavaField.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/test/!svn/ver/7/trunk/raptor/Java/JavaField.cs
+END
+JavaLanguage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/test/!svn/ver/7/trunk/raptor/Java/JavaLanguage.cs
+END
+JavaEnum.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/test/!svn/ver/7/trunk/raptor/Java/JavaEnum.cs
+END
+JavaClass.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/test/!svn/ver/7/trunk/raptor/Java/JavaClass.cs
+END
+JavaConstructor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/test/!svn/ver/7/trunk/raptor/Java/JavaConstructor.cs
+END

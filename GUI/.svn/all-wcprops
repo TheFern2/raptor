@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/test/!svn/ver/7/trunk/raptor/GUI
+END
+GUI.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/test/!svn/ver/7/trunk/raptor/GUI/GUI.csproj
+END
+Settings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/test/!svn/ver/7/trunk/raptor/GUI/Settings.cs
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/test/!svn/ver/7/trunk/raptor/GUI/app.config
+END
+ZoomingToolStrip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/test/!svn/ver/7/trunk/raptor/GUI/ZoomingToolStrip.cs
+END
+MainForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/test/!svn/ver/7/trunk/raptor/GUI/MainForm.resx
+END
+MainForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/test/!svn/ver/7/trunk/raptor/GUI/MainForm.Designer.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/test/!svn/ver/7/trunk/raptor/GUI/Program.cs
+END
+MainForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/test/!svn/ver/7/trunk/raptor/GUI/MainForm.cs
+END
+UpdatesChecker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/test/!svn/ver/7/trunk/raptor/GUI/UpdatesChecker.cs
+END

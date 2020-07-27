@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/test/!svn/ver/7/trunk/raptor/GUI/Properties
+END
+Settings.settings
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/test/!svn/ver/7/trunk/raptor/GUI/Properties/Settings.settings
+END
+Settings.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/test/!svn/ver/7/trunk/raptor/GUI/Properties/Settings.Designer.cs
+END
+Resources.resx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/test/!svn/ver/7/trunk/raptor/GUI/Properties/Resources.resx
+END
+Resources.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/test/!svn/ver/7/trunk/raptor/GUI/Properties/Resources.Designer.cs
+END

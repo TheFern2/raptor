@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes
+END
+DelegateShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes/DelegateShape.cs
+END
+ResizeEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes/ResizeEventArgs.cs
+END
+InterfaceShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes/InterfaceShape.cs
+END
+TypeShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes/TypeShape.cs
+END
+CommentShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes/CommentShape.cs
+END
+CompositeTypeShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes/CompositeTypeShape.cs
+END
+DiagramShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes/DiagramShape.cs
+END
+EnumShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes/EnumShape.cs
+END
+StructShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes/StructShape.cs
+END
+ClassShape.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Shapes/ClassShape.cs
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/test/!svn/ver/7/trunk/raptor/Core
+END
+SerializeEventArgsBinary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/test/!svn/ver/7/trunk/raptor/Core/SerializeEventArgsBinary.cs
+END
+BadSyntaxException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/test/!svn/ver/7/trunk/raptor/Core/BadSyntaxException.cs
+END
+ProjectCore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/test/!svn/ver/7/trunk/raptor/Core/ProjectCore.cs
+END
+AccessModifier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/test/!svn/ver/7/trunk/raptor/Core/AccessModifier.cs
+END
+BinarySerializationHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/test/!svn/ver/7/trunk/raptor/Core/BinarySerializationHelper.cs
+END
+Language.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/test/!svn/ver/7/trunk/raptor/Core/Language.cs
+END
+Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/test/!svn/ver/7/trunk/raptor/Core/Core.csproj
+END
+ISerializableElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/test/!svn/ver/7/trunk/raptor/Core/ISerializableElement.cs
+END
+Element.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/test/!svn/ver/7/trunk/raptor/Core/Element.cs
+END
+EntityEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/test/!svn/ver/7/trunk/raptor/Core/EntityEventArgs.cs
+END
+RelationEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/test/!svn/ver/7/trunk/raptor/Core/RelationEventArgs.cs
+END
+RAPTORUpdater.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/test/!svn/ver/7/trunk/raptor/Core/RAPTORUpdater.cs
+END
+LanguageElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/test/!svn/ver/7/trunk/raptor/Core/LanguageElement.cs
+END
+IProjectPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/test/!svn/ver/7/trunk/raptor/Core/IProjectPlugin.cs
+END
+ReservedNameException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/test/!svn/ver/7/trunk/raptor/Core/ReservedNameException.cs
+END
+DotNetLanguage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/test/!svn/ver/7/trunk/raptor/Core/DotNetLanguage.cs
+END
+SerializeEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/test/!svn/ver/7/trunk/raptor/Core/SerializeEventArgs.cs
+END
+IPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/test/!svn/ver/7/trunk/raptor/Core/IPlugin.cs
+END

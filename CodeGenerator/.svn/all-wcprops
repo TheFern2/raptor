@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator
+END
+Dialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/Dialog.resx
+END
+CodeGenerator.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/CodeGenerator.csproj
+END
+ProjectGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/ProjectGenerator.cs
+END
+CSharpProjectGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/CSharpProjectGenerator.cs
+END
+Dialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/Dialog.Designer.cs
+END
+Dialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/Dialog.cs
+END
+JavaProjectGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/JavaProjectGenerator.cs
+END
+Settings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/Settings.cs
+END
+Generator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/Generator.cs
+END
+template.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/template.csproj
+END
+SourceFileGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/SourceFileGenerator.cs
+END
+CSharpSourceFileGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/CSharpSourceFileGenerator.cs
+END
+JavaSourceFileGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/JavaSourceFileGenerator.cs
+END
+FileGenerationException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/test/!svn/ver/7/trunk/raptor/CodeGenerator/FileGenerationException.cs
+END

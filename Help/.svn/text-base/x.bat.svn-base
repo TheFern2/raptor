@@ -1,0 +1,16 @@
+perl -piq -e s/RAPTOR/Raptor/g abs.htm
+perl -piq -e s/RAPTOR/Raptor/g First_Topic.htm
+perl -piq -e s/RAPTOR/Raptor/g get_max_height.htm
+perl -piq -e s/RAPTOR/Raptor/g get_max_height.htm
+perl -piq -e s/RAPTOR/Raptor/g get_max_width.htm
+perl -piq -e s/RAPTOR/Raptor/g get_max_width.htm
+perl -piq -e s/RAPTOR/Raptor/g get_window_height.htm
+perl -piq -e s/RAPTOR/Raptor/g get_window_height.htm
+perl -piq -e s/RAPTOR/Raptor/g get_window_height.htm
+perl -piq -e s/RAPTOR/Raptor/g get_window_width.htm
+perl -piq -e s/RAPTOR/Raptor/g get_window_width.htm
+perl -piq -e s/RAPTOR/Raptor/g get_window_width.htm
+perl -piq -e s/RAPTOR/Raptor/g math-functions.htm
+perl -piq -e s/RAPTOR/Raptor/g math-functions.htm
+perl -piq -e s/RAPTOR/Raptor/g Raptor_Functions.htm
+perl -piq -e s/RAPTOR/Raptor/g reducing_displayed_chart_size.htm

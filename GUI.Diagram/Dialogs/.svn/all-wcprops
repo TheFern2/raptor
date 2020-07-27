@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs
+END
+PrintDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/PrintDialog.Designer.cs
+END
+PrintDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/PrintDialog.cs
+END
+TreeDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/TreeDialog.Designer.cs
+END
+TreeDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/TreeDialog.cs
+END
+EnumDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/EnumDialog.cs
+END
+MembersDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/MembersDialog.resx
+END
+EditCommentDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/EditCommentDialog.Designer.cs
+END
+EditCommentDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/EditCommentDialog.cs
+END
+PrintDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/PrintDialog.resx
+END
+ListDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/ListDialog.Designer.cs
+END
+DelegateDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/DelegateDialog.cs
+END
+ListDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/ListDialog.cs
+END
+TreeDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/TreeDialog.resx
+END
+OverrideDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/OverrideDialog.cs
+END
+EditCommentDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/EditCommentDialog.resx
+END
+ListDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/ListDialog.resx
+END
+MembersDialog.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/MembersDialog.designer.cs
+END
+MembersDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/MembersDialog.cs
+END
+ImplementDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Dialogs/ImplementDialog.cs
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram
+END
+Icons.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Icons.cs
+END
+IDiagram.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/IDiagram.cs
+END
+IPrintableDiagram.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/IPrintableDiagram.cs
+END
+DiagramElement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/DiagramElement.cs
+END
+OrderedList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/OrderedList.cs
+END
+DiagramControl.resx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/DiagramControl.resx
+END
+GUI.Diagram.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/GUI.Diagram.csproj
+END
+DiagramClipboard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/DiagramClipboard.cs
+END
+MoveEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/MoveEventArgs.cs
+END
+IClipboardItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/IClipboardItem.cs
+END
+IDiagramPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/IDiagramPlugin.cs
+END
+ToolStripSimplifiedRenderer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/ToolStripSimplifiedRenderer.cs
+END
+Settings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Settings.cs
+END
+Style.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Style.cs
+END
+DiagramControl.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/DiagramControl.Designer.cs
+END
+DiagramControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/DiagramControl.cs
+END
+AbsoluteMouseEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/AbsoluteMouseEventArgs.cs
+END
+Project.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/Project.cs
+END
+MonoHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/MonoHelper.cs
+END

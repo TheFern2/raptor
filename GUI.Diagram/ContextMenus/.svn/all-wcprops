@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/ContextMenus
+END
+TypeShapeContextMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/ContextMenus/TypeShapeContextMenu.cs
+END
+CommentShapeContextMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/ContextMenus/CommentShapeContextMenu.cs
+END
+Intersector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/ContextMenus/Intersector.cs
+END
+AssociationContextMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/ContextMenus/AssociationContextMenu.cs
+END
+GeneralContextMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/ContextMenus/GeneralContextMenu.cs
+END
+ConnectionContextMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/ContextMenus/ConnectionContextMenu.cs
+END
+ContextMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/ContextMenus/ContextMenu.cs
+END
+ShapeContextMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/test/!svn/ver/7/trunk/raptor/GUI.Diagram/ContextMenus/ShapeContextMenu.cs
+END

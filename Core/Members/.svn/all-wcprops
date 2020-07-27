@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members
+END
+Destructor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/Destructor.cs
+END
+OperationModifier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/OperationModifier.cs
+END
+Method.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/Method.cs
+END
+Operation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/Operation.cs
+END
+EnumValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/EnumValue.cs
+END
+Event.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/Event.cs
+END
+FieldModifier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/FieldModifier.cs
+END
+Field.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/Field.cs
+END
+Property.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/Property.cs
+END
+Constructor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/Constructor.cs
+END
+Member.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/test/!svn/ver/7/trunk/raptor/Core/Members/Member.cs
+END

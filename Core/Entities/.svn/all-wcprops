@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities
+END
+IInterfaceImplementer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/IInterfaceImplementer.cs
+END
+DelegateType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/DelegateType.cs
+END
+TypeBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/TypeBase.cs
+END
+Comment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/Comment.cs
+END
+InterfaceType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/InterfaceType.cs
+END
+StructureType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/StructureType.cs
+END
+ClassModifier.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/ClassModifier.cs
+END
+CompositeType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/CompositeType.cs
+END
+IEntity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/IEntity.cs
+END
+EnumType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/EnumType.cs
+END
+ClassType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/ClassType.cs
+END
+SingleInharitanceType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/SingleInharitanceType.cs
+END
+SortingMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/test/!svn/ver/7/trunk/raptor/Core/Entities/SortingMode.cs
+END
